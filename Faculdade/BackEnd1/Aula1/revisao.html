@@ -1,0 +1,44 @@
+<!doctype html>
+<script>
+  function Mostrar() {
+    let produto = document.getElementById("produto").value;
+    let nome = document.getElementById("nome").value;
+    let quantidade = document.getElementById("quantidade").value;
+    let tipo1 = document.getElementById("eletro").checked;
+    let tipo2 = document.getElementById("moveis").checked;
+
+    alert(produto);
+    alert(nome);
+    alert(quantidade);
+    alert(tipo1);
+    alert(tipo2);
+
+    if (tipo1 == true) alert("o produto eh eletro");
+    if (tipo2 == true) alert("o produto eh movel");
+  }
+</script>
+
+<html>
+  <head>
+    <title>Cadastro</title>
+  </head>
+
+  <body>
+    <form>
+      <h2>Cadastro de produto</h2>
+      <label for="pnome">Nome produto:</label>
+      <input type="text" id="pnome" name="pnome" /><br />
+      <label for="pdesc">Descricao produto:</label>
+      <input type="text" id="pdesc" name="pdesc" /><br />
+      <label for="qtprod">Quantidade de produto</label>
+      <input type="text" id="qtprod" name="qtprod" /><br />
+      <label for="tproduto">Tipo de produto:</label><br />
+      <input type="radio" id="eletro" />
+      <label for="eletro">Eletrodomestico</label><br />
+      <input type="radio" id="moveis" />
+      <label for="moveis">Moveis</label><br />
+
+      <button>Cadastrar</button>
+    </form>
+  </body>
+</html>
