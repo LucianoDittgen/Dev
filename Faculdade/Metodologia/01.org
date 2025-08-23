@@ -1,0 +1,5 @@
+* Pesquisa cientifica
+** Proposta de TCC
+O quê -> Objetivo
+Por quê -> Relevância
+Com quê -> Tecnologias
