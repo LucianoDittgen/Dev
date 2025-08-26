@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>JavaScript 25</title>
+<script type="text/JavaScript">
+
+var cores=['azul','amarelo','vermelho']
+
+var pos = cores.indexOf('amarelo'); //posição a partir da qual os itens serão removidos
+
+var n = 1; // número de itens a se remover
+
+var itensRemovidos = cores.splice(pos, n); 
+
+cores.forEach(function (item, indice) {
+  document.write("A cor do elemento "+indice+" é "+item+"<br>");
+});
+
+</script>
+
+
+
+</head>
+<body>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

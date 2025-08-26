@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>JavaScript 13</title>
+<script type="text/JavaScript">
+
+var condicao=true;
+
+if (condicao)
+{
+
+	let a=10;
+	alert(a);    // Alerta o valor 10
+}
+
+alert(a);       //não consegue manipular a variável
+				//pois ela tem escopo de bloco
+				//apresenta um erro "a is not defined" na ferramenta console
+
+function funcaoUm(){
+
+	alert(a);   //não consegue manipular a variável
+				//pois ela tem escopo de bloco
+				//apresenta um erro "a is not defined" na ferramenta console
+}
+
+
+funcaoUm();  	 // Executa a funcaoUm
+
+
+</script>
+</head>
+<body>
+Este é o corpo da Página HTML   
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

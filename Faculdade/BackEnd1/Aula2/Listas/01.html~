@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <title>01</title>
+    <script src="01.js"></script>
+  </head>
+  <body>
+    <h2>Lista de exercicios 1</h2>
+    <button onclick="imprimir8vezes()">1</button>
+    <button onclick="quadrados15()">2</button>
+    <button onclick="maiorque100()">3</button>
+    <button onclick="imparesentre1121()">4</button>
+    <button onclick="inteiros50()">5</button>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+function imprimir8vezes(arg) {
+  for (let i = 0; i < 8; i++) {
+    document.writeln("PROGRAMACAO WEB" + "<br>");
+  }
+}
+
+function quadrados15(arg) {
+  for (let i = 15; i <= 30; i++) {
+    let num = i * i;
+    document.writeln(num + "<br>");
+  }
+}
+
+function maiorque100(arg) {
+  for (let i = 100; i <= 110; i++) {
+    document.writeln(i + "<br>");
+  }
+}
+
+function imparesentre1121(arg) {
+  for (let i = 11; i <= 21; i++) {
+    if (i % 2 !== 0) {
+      document.writeln(i + "<br>");
+    }
+  }
+}
