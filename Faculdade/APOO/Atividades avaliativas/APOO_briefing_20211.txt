@@ -1,0 +1,16 @@
+Concepção de Sistemas
+Briefing
+Profa. Márcia Zechlinski Gusmão
+Perguntas
+1) Qual o nome da empresa? Ziggurat
+2) Qual o segmento da empresa? Segurança da informação
+3) Qual o público-alvo da empresa? Pessoas interessadas em aumentar a segurança de suas credenciais por meio de um gerenciador de senhas com criptografia de ponta a ponta.
+
+4) O projeto se refere a (1) site, (2) sistema, (3) aplicativo? Ou todos? Um sistema primeiramente web que pode contar com uma extensão para navegador.
+5) A empresa possui marca ou Manual de Identidade Visual? Ainda não possui.
+6) Qual o objetivo do projeto? O objetivo é desenvolver um gerenciador de senhas seguro, que utilize criptografia de ponta a ponta para armazenar credenciais em banco de dados local.
+
+7) Quais são os 3 principais concorrentes da empresa? Bitwarden, KeePassXC e 1Password. 
+8) Quais são as 3 referências de sites modelo?KeePassXC, Bitwarden e Proton Pass.
+9) Qual o prazo de lançamento do produto? O prazo de lançamento do protótipo está alinhado ao cronograma do TCC, com entrega da versão inicial funcional até o final do semestre letivo.
+10) Vamos fazer um contrato? Sim. No contexto acadêmico, o projeto será documentado e validado como parte da disciplina de Trabalho de Conclusão de Curso (TCC).

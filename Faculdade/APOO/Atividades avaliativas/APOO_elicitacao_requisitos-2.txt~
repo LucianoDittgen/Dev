@@ -1,0 +1,22 @@
+Para refletir:
+
+1. Qual a importância de utilizar requisitos em um projeto de desenvolvimento de Software?
+   Para definir o que o sistema deve fazer, evita retrabalho e facilita os testes.
+2. Diferencie Elicitação de Especificação de requisitos.
+   Na etapa de elicitação se coletam os requisitos e na especificação se documentam os mesmos.
+3. Quais as principais técnicas de Elicitação de Requisitos? Descreva-as.Entrevista, questionários, observação, brainstorming, prototipação, workshops e análise de documentos.
+4. Cite 5 Requisitos Funcionais para:
+a) Sistema da padaria de pequeno porte. 
+Registro de vendas, gerar relatórios, homologar produtos, registrar pagamentos e ter controle do estoque.
+
+b) Sistema de alocação docente. Cadastro dos professores, disciplinas, alocar de fato os docentes, gerar relatórios e editar as alocações.
+5. Cite 5 Requisitos Não Funcionais para:
+a) Sistema da padaria de pequeno porte; 
+b) Sistema de alocação docente.
+6. Escreva um caso de uso chamado Manter Professor para o sistema de alocação docente.
+7. Faça uma pesquisa mais aprofundada sobre o padrão arquitetural MVC, observe seus
+detalhes e formas de adaptação.
+8. Cite três diferenças entre a fase de análise e a fase de projeto.
+9. Qual a importância da fase de análise para um projeto de desenvolvimento de software?
+
+

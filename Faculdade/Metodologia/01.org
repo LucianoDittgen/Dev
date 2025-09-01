@@ -1,5 +1,8 @@
-* Pesquisa cientifica
+* Semana 1 Pesquisa cientifica
 ** Proposta de TCC
 O quê -> Objetivo
 Por quê -> Relevância
 Com quê -> Tecnologias
+* Semana 2
+** Métodos e técnicas de pesquisa
+
